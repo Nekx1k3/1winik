@@ -1,0 +1,9 @@
+Config\HPV_Account.json
+Config\HPV_Config.json
+Config\HPV_Config.py
+
+Proxy\HPV_Proxy.txt
+
+Config\__pycache__
+Tools\__pycache__
+Tools\Headers_Tools\__pycache__

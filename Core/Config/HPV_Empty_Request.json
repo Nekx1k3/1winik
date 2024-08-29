@@ -1,0 +1,263 @@
+{
+    "Authentication_1": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app",
+        "Headers": {"User-Agent": "HPV TEAM", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "upgrade-insecure-requests": "1", "x-requested-with": "HPV TEAM", "sec-fetch-site": "none", "sec-fetch-mode": "navigate", "sec-fetch-user": "?1", "sec-fetch-dest": "document", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_2": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/index-BwS3W7AP.js",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "cors", "sec-fetch-dest": "script", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_3": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/fonts/Inter/Inter-SemiBold.woff2",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "cors", "sec-fetch-dest": "font", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/index-Ck73HBhG.css", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_4": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/fonts/Inter/Inter-Regular.woff2",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "cors", "sec-fetch-dest": "font", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/index-Ck73HBhG.css", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_5": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/hash-CMEW0kHO.js",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "cors", "sec-fetch-dest": "script", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/index-BwS3W7AP.js", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_6": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/en.yeTeh-CBLJwixf.js",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "cors", "sec-fetch-dest": "script", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/index-BwS3W7AP.js", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_7": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/ru.yeTeh-DyGwq65r.js",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "cors", "sec-fetch-dest": "script", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/index-BwS3W7AP.js", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_8": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/ru.C2BOK-DGfNWU3S.js",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "cors", "sec-fetch-dest": "script", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/index-BwS3W7AP.js", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_9": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/en.C2BOK-CV_C9kdN.js",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "cors", "sec-fetch-dest": "script", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/index-BwS3W7AP.js", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_10": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/favicon.ico",
+        "Headers": {"User-Agent": "HPV TEAM", "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "no-cors", "sec-fetch-dest": "image", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_11": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/Game-COHnjDam.css",
+        "Headers": {"User-Agent": "HPV TEAM", "Accept": "text/css,*/*;q=0.1", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "no-cors", "sec-fetch-dest": "style", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_12": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/Game-Cx2N9fyi.js",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "cors", "sec-fetch-dest": "script", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_13": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/bg-main-DBd23TS7.webp",
+        "Headers": {"User-Agent": "HPV TEAM", "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "no-cors", "sec-fetch-dest": "image", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/Game-COHnjDam.css", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_14": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/favicon.ico",
+        "Headers": {"User-Agent": "HPV TEAM", "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "no-cors", "sec-fetch-dest": "image", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/home", "accept-language": "HPV TEAM"}
+    },
+    "Authentication_15": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/fonts/SF-Mono/sf-mono-medium.woff2",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "cors", "sec-fetch-dest": "font", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/index-Ck73HBhG.css", "accept-language": "HPV TEAM"}
+    },
+
+
+
+    "Balance_1": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/user/balance",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "GET", "access-control-request-headers": "authorization,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "Balance_2": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/tasks/quests",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "GET", "access-control-request-headers": "authorization,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "Balance_3": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/game/config",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "GET", "access-control-request-headers": "authorization,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "Balance_4": {
+        "Method": "get",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/user/balance",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "authorization": "HPV TEAM", "x-user-id": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-mode": "cors", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "Balance_5": {
+        "Method": "get",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/tasks/quests",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "authorization": "HPV TEAM", "x-user-id": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-mode": "cors", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "Balance_6": {
+        "Method": "get",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/game/config",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "authorization": "HPV TEAM", "x-user-id": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-mode": "cors", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "Balance_7": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/centrifugo/tokens/taps",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "GET", "access-control-request-headers": "authorization,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "Balance_8": {
+        "Method": "get",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/centrifugo/tokens/taps",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "authorization": "HPV TEAM", "x-user-id": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-mode": "cors", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+
+
+
+    "user_profit_options": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/user/profit",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "GET", "access-control-request-headers": "authorization,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "user_profit_get": {
+        "Method": "get",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/user/profit",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "authorization": "HPV TEAM", "x-user-id": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-mode": "cors", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+
+
+
+    "tokens_bonus_options": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/centrifugo/tokens/bonus",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "GET", "access-control-request-headers": "authorization,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "tokens_bonus_get": {
+        "Method": "get",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/centrifugo/tokens/bonus",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "authorization": "HPV TEAM", "x-user-id": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-mode": "cors", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+
+
+
+    "favicon_ico": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/favicon.ico",
+        "Headers": {"User-Agent": "HPV TEAM", "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "no-cors", "sec-fetch-dest": "image", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/tasks", "accept-language": "HPV TEAM"}
+    },
+
+
+
+    "AutoRefClaim_1": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/friends?offset=0&limit=5",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "GET", "access-control-request-headers": "authorization,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "AutoRefClaim_2": {
+        "Method": "get",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/friends?offset=0&limit=5",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "authorization": "HPV TEAM", "x-user-id": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-mode": "cors", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+
+
+
+    "minings_options_get": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/minings",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "GET", "access-control-request-headers": "authorization,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "minings_options_post": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/minings",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "POST", "access-control-request-headers": "authorization,content-type,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "minings_get": {
+        "Method": "get",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/minings",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "authorization": "HPV TEAM", "x-user-id": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-mode": "cors", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+
+
+
+    "tasks_everydayreward_options_get": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/tasks/everydayreward",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "GET", "access-control-request-headers": "authorization,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "tasks_everydayreward_options_post": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/tasks/everydayreward",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "POST", "access-control-request-headers": "authorization,content-type,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "tasks_everydayreward_get": {
+        "Method": "get",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/tasks/everydayreward",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "authorization": "HPV TEAM", "x-user-id": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-mode": "cors", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+
+
+
+    "energy_improvements_options_get": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/energy/improvements",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "GET", "access-control-request-headers": "authorization,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "energy_improvements_options_post": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/energy/improvements",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "POST", "access-control-request-headers": "authorization,content-type,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "energy_improvements_get": {
+        "Method": "get",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/energy/improvements",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "authorization": "HPV TEAM", "x-user-id": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-mode": "cors", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+
+
+
+    "energy_bonus_options": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/energy/bonus",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "GET", "access-control-request-headers": "authorization,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "energy_bonus_get": {
+        "Method": "get",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/energy/bonus",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "authorization": "HPV TEAM", "x-user-id": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-mode": "cors", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+
+
+
+    "tap_options": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/tap",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "POST", "access-control-request-headers": "authorization,content-type,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+
+
+
+    "wallet_list_options": {
+        "Method": "options",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/wallet/list",
+        "Headers": {"User-Agent": "HPV TEAM", "access-control-request-method": "GET", "access-control-request-headers": "authorization,x-user-id", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "sec-fetch-mode": "cors", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+    "wallet_list_get": {
+        "Method": "get",
+        "Url": "https://crypto-clicker-backend-go-prod.100hp.app/wallet/list",
+        "Headers": {"User-Agent": "HPV TEAM", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "authorization": "HPV TEAM", "x-user-id": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "origin": "https://cryptocklicker-frontend-rnd-prod.100hp.app", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-site", "sec-fetch-mode": "cors", "sec-fetch-dest": "empty", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/", "accept-language": "HPV TEAM"}
+    },
+
+
+
+    "Games_1win": {
+        "Method": "get",
+        "Url": "https://cryptocklicker-frontend-rnd-prod.100hp.app/assets/1w-gamepad_bg-CasJ_zm8.webp",
+        "Headers": {"User-Agent": "HPV TEAM", "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8", "sec-ch-ua": "HPV TEAM", "sec-ch-ua-mobile": "HPV TEAM", "sec-ch-ua-platform": "HPV TEAM", "x-requested-with": "HPV TEAM", "sec-fetch-site": "same-origin", "sec-fetch-mode": "no-cors", "sec-fetch-dest": "image", "referer": "https://cryptocklicker-frontend-rnd-prod.100hp.app/games", "accept-language": "HPV TEAM"}
+    }
+}
